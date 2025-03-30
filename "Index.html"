@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+    <meta name="description" content="This is a simple html web page">
+    <meta name="Author & Dev" content="Abigail Bhebe Software Dev">
+    <title>L A Beauty Studio</title>
+  </head>
+  <body>
+
+      <Header>
+          <h1>L A Beauty Studio</h1>
+          <h3>Our services</h3>
+          <h3>Aesthetic Treatments</h3>
+          <h3>Beauty Solutions</h3>
+          <h3>Enhance Your Beauty</h3>
+          <h6>Book Your Appointment Today!</h6>
+      </Header>
+     <Main>
+    <p>Welcome to L A Beauty Studios, where beauty meets art. We offer a range of aesthetic services designed to enhance your natural beauty and leave you feeling confident and radiant.</p>
+    <a href="https://google.com">visit <Google.COM</a>
+  </Main>
+  <Footer>
+    <p>&copy; 2025.All Rights Reserved</p>
+  </Footer>
+</body>
+</html>
